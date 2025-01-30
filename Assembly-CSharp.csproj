@@ -12,7 +12,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{43879fe7-ff20-282d-c893-78d41fd66398}</ProjectGuid>
+    <ProjectGuid>{0a2e7e2f-4c0c-e0d6-9d13-65ab4f94e724}</ProjectGuid>
     <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
@@ -111,7 +111,6 @@
      <Folder Include="Assets\AssetPacks\Samples\Terrain Tools\0.1.0-preview" />
      <Folder Include="Assets\SlimUI" />
      <Folder Include="Assets\AssetPacks\Samples" />
-     <Folder Include="Assets\Slackbar" />
      <Folder Include="Assets\TextMesh Pro\Resources\Sprite Assets" />
      <Folder Include="Assets\Materials" />
      <Folder Include="Assets\StarSparrow\Prefabs\ExamplesModular" />
@@ -859,58 +858,58 @@
      <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.11f1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\System.Xml.Serialization.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Timeline">
-     <HintPath>C:\Users\Onur\Desktop\DGD303-Game-Engines-2-FINAL\Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
+     <HintPath>C:\Users\Onur\Desktop\midterms\DGD303-Game-Engines-2\Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
      </Reference>
      <Reference Include="Unity.TerrainTools.Editor">
-     <HintPath>C:\Users\Onur\Desktop\DGD303-Game-Engines-2-FINAL\Library\ScriptAssemblies\Unity.TerrainTools.Editor.dll</HintPath>
+     <HintPath>C:\Users\Onur\Desktop\midterms\DGD303-Game-Engines-2\Library\ScriptAssemblies\Unity.TerrainTools.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Postprocessing.Runtime">
-     <HintPath>C:\Users\Onur\Desktop\DGD303-Game-Engines-2-FINAL\Library\ScriptAssemblies\Unity.Postprocessing.Runtime.dll</HintPath>
+     <HintPath>C:\Users\Onur\Desktop\midterms\DGD303-Game-Engines-2\Library\ScriptAssemblies\Unity.Postprocessing.Runtime.dll</HintPath>
      </Reference>
      <Reference Include="Unity.PlasticSCM.Editor">
-     <HintPath>C:\Users\Onur\Desktop\DGD303-Game-Engines-2-FINAL\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
+     <HintPath>C:\Users\Onur\Desktop\midterms\DGD303-Game-Engines-2\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.AI.Navigation">
-     <HintPath>C:\Users\Onur\Desktop\DGD303-Game-Engines-2-FINAL\Library\ScriptAssemblies\Unity.AI.Navigation.dll</HintPath>
+     <HintPath>C:\Users\Onur\Desktop\midterms\DGD303-Game-Engines-2\Library\ScriptAssemblies\Unity.AI.Navigation.dll</HintPath>
      </Reference>
      <Reference Include="Unity.AI.Navigation.Updater">
-     <HintPath>C:\Users\Onur\Desktop\DGD303-Game-Engines-2-FINAL\Library\ScriptAssemblies\Unity.AI.Navigation.Updater.dll</HintPath>
+     <HintPath>C:\Users\Onur\Desktop\midterms\DGD303-Game-Engines-2\Library\ScriptAssemblies\Unity.AI.Navigation.Updater.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Postprocessing.Editor">
-     <HintPath>C:\Users\Onur\Desktop\DGD303-Game-Engines-2-FINAL\Library\ScriptAssemblies\Unity.Postprocessing.Editor.dll</HintPath>
+     <HintPath>C:\Users\Onur\Desktop\midterms\DGD303-Game-Engines-2\Library\ScriptAssemblies\Unity.Postprocessing.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Timeline.Editor">
-     <HintPath>C:\Users\Onur\Desktop\DGD303-Game-Engines-2-FINAL\Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
+     <HintPath>C:\Users\Onur\Desktop\midterms\DGD303-Game-Engines-2\Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.TerrainTools">
-     <HintPath>C:\Users\Onur\Desktop\DGD303-Game-Engines-2-FINAL\Library\ScriptAssemblies\Unity.TerrainTools.dll</HintPath>
+     <HintPath>C:\Users\Onur\Desktop\midterms\DGD303-Game-Engines-2\Library\ScriptAssemblies\Unity.TerrainTools.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualStudio.Editor">
-     <HintPath>C:\Users\Onur\Desktop\DGD303-Game-Engines-2-FINAL\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
+     <HintPath>C:\Users\Onur\Desktop\midterms\DGD303-Game-Engines-2\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.TextMeshPro">
-     <HintPath>C:\Users\Onur\Desktop\DGD303-Game-Engines-2-FINAL\Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
+     <HintPath>C:\Users\Onur\Desktop\midterms\DGD303-Game-Engines-2\Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
      </Reference>
      <Reference Include="UnityEditor.UI">
-     <HintPath>C:\Users\Onur\Desktop\DGD303-Game-Engines-2-FINAL\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
+     <HintPath>C:\Users\Onur\Desktop\midterms\DGD303-Game-Engines-2\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
      </Reference>
      <Reference Include="Unity.TextMeshPro.Editor">
-     <HintPath>C:\Users\Onur\Desktop\DGD303-Game-Engines-2-FINAL\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
+     <HintPath>C:\Users\Onur\Desktop\midterms\DGD303-Game-Engines-2\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.UI">
-     <HintPath>C:\Users\Onur\Desktop\DGD303-Game-Engines-2-FINAL\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
+     <HintPath>C:\Users\Onur\Desktop\midterms\DGD303-Game-Engines-2\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
      </Reference>
      <Reference Include="Unity.AI.Navigation.Editor">
-     <HintPath>C:\Users\Onur\Desktop\DGD303-Game-Engines-2-FINAL\Library\ScriptAssemblies\Unity.AI.Navigation.Editor.dll</HintPath>
+     <HintPath>C:\Users\Onur\Desktop\midterms\DGD303-Game-Engines-2\Library\ScriptAssemblies\Unity.AI.Navigation.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Rider.Editor">
-     <HintPath>C:\Users\Onur\Desktop\DGD303-Game-Engines-2-FINAL\Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
+     <HintPath>C:\Users\Onur\Desktop\midterms\DGD303-Game-Engines-2\Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.AI.Navigation.Editor.ConversionSystem">
-     <HintPath>C:\Users\Onur\Desktop\DGD303-Game-Engines-2-FINAL\Library\ScriptAssemblies\Unity.AI.Navigation.Editor.ConversionSystem.dll</HintPath>
+     <HintPath>C:\Users\Onur\Desktop\midterms\DGD303-Game-Engines-2\Library\ScriptAssemblies\Unity.AI.Navigation.Editor.ConversionSystem.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VSCode.Editor">
-     <HintPath>C:\Users\Onur\Desktop\DGD303-Game-Engines-2-FINAL\Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
+     <HintPath>C:\Users\Onur\Desktop\midterms\DGD303-Game-Engines-2\Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
      </Reference>
   </ItemGroup>
   <ItemGroup>
